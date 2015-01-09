@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         flag2.layer.borderWidth = 1
         flag3.layer.borderWidth = 1
         
-        countries += ["estonia", "france", "germany", "ireland", "italy", "monaco", "nigeria", "poland", "russia", "spain", "uk", "us"]
+        countries += ["afghanistan", "belgium", "colombia", "estonia", "france", "germany", "ireland", "italy", "monaco", "nigeria", "poland", "russia", "spain", "uk", "us"]
         askQuestion()
     }
 
