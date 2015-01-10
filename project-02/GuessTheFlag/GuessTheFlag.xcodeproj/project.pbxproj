@@ -118,9 +118,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6C0548F11A6073C00060A521 /* GuessTheFlag */ = {
+		6C0548F11A6073C00060A521 /* Flags */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6C0549111A6073C00060A521 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */;
+			buildConfigurationList = 6C0549111A6073C00060A521 /* Build configuration list for PBXNativeTarget "Flags" */;
 			buildPhases = (
 				6C0548EE1A6073C00060A521 /* Sources */,
 				6C0548EF1A6073C00060A521 /* Frameworks */,
@@ -130,7 +130,7 @@
 			);
 			dependencies = (
 			);
-			name = GuessTheFlag;
+			name = Flags;
 			productName = GuessTheFlag;
 			productReference = 6C0548F21A6073C00060A521 /* GuessTheFlag.app */;
 			productType = "com.apple.product-type.application";
@@ -184,7 +184,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6C0548F11A6073C00060A521 /* GuessTheFlag */,
+				6C0548F11A6073C00060A521 /* Flags */,
 				6C0549061A6073C00060A521 /* GuessTheFlagTests */,
 			);
 		};
@@ -234,7 +234,7 @@
 /* Begin PBXTargetDependency section */
 		6C0549091A6073C00060A521 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6C0548F11A6073C00060A521 /* GuessTheFlag */;
+			target = 6C0548F11A6073C00060A521 /* Flags */;
 			targetProxy = 6C0549081A6073C00060A521 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -402,13 +402,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6C0549111A6073C00060A521 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */ = {
+		6C0549111A6073C00060A521 /* Build configuration list for PBXNativeTarget "Flags" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6C0549121A6073C00060A521 /* Debug */,
 				6C0549131A6073C00060A521 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6C0549141A6073C00060A521 /* Build configuration list for PBXNativeTarget "GuessTheFlagTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				6C0549161A6073C00060A521 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
