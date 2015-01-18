@@ -11,6 +11,7 @@ This repo contains my Swift projects from Paul Hudson's awesome [Hacking With Sw
 | 4 | SwiftBrowser | Simple Web browser | App |
 | 5 | WordScramble | Word scramble game | Game |
 | 6 | Guess the Flag | Auto Layout updates| Technique |
+| 7 | Whitehouse | JSON Parsing | App |
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
