@@ -14,6 +14,7 @@ This repo contains my Swift projects from Paul Hudson's awesome [Hacking With Sw
 | 7 | Whitehouse | JSON Parsing | App |
 | 8 | 7 Swifty Words | Word guessing | Game |
 | 9 | Whitehouse | GCD app update | Technique |
+| 10 | Names to Faces | Photo Library | App |
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
