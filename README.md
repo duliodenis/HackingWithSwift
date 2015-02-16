@@ -18,6 +18,7 @@ This repo contains my Swift projects from Paul Hudson's awesome [Hacking With Sw
 | 11 | Pachinko | SpriteKit | 2D Game |
 | 12 | Names to Faces | Add NSUserDefaults | Technique |
 | 13 | Instafilter | Core Image filters | App |
+| 14 | Whack-a-Penguin | Whack a mole clone | Game |
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
