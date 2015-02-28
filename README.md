@@ -19,6 +19,7 @@ This repo contains my Swift projects from Paul Hudson's awesome [Hacking With Sw
 | 12 | Names to Faces | Add NSUserDefaults | Technique |
 | 13 | Instafilter | Core Image filters | App |
 | 14 | Whack-a-Penguin | Whack a mole clone | Game |
+| 15 | Animation | Core Animation | Technique |
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
